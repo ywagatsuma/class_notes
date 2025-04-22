@@ -12,3 +12,11 @@ open terminal
 "mkdir" for making directory
 
 use "code ." to open vs code
+
+## try pull
+"git status"
+if red notice that means there is a change
+
+"git diff" to see what changed, "git pull" to ge the new content from remote 
+
+so "git push" is when prof makes a slide and uploads that on git. "git pull" for me to ge the slide to my computer from the git
