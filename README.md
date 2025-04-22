@@ -13,7 +13,8 @@ open terminal
 
 use "code ." to open vs code
 
-## try pull
+## try pull<img width="909" alt="scsh1" src="https://github.com/user-attachments/assets/c4952819-1c79-44a9-ba04-f1404c8bbc86" />
+
 "git status"
 if red notice that means there is a change
 
