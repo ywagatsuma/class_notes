@@ -1,22 +1,21 @@
 # class_notes
-just random notes
+random notes
 
-open terminal
+4/29/25 upddated to add bulletpoints and numberings
 
-"pwd" to know where i am
+1. open terminal
+- "pwd" to know which directory I am in know
+- "ls" for listing up the files, and "ls -gtr" for listing and sorting oldest modified at top 
+- "cd" for changing directory and type "cd sth*" if not sure of the whole name of the file looking for, also for going back to home directory. to go one file back type "cd .."
 
-"ls" for openning the list and "ls -gtr" for 
+- "mkdir" for making directory
 
-"cd" for changing directory and type "cd sth*" if not sure of the whole name of the file looking for, also for going back to home directory. to go one file back type "cd .."
-
-"mkdir" for making directory
-
-use "code ." to open vs code
+1. use "code ." to open vs code
 
 ## try pull
 
-"git status"
-if red notice that means there is a change
+- "git status"
+  - if red notice that means there is a change
 
 "git diff" to see what changed, "git pull" to ge the new content from remote 
 
